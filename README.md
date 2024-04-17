@@ -38,4 +38,4 @@ Raspa títulos de websites comparando o desempenho entre usar threads e processo
 Para executar os scripts, você precisará das seguintes bibliotecas:
 
 ```bash
-pip install spellchecker psutil matplotlib
+pip install -r requirements.txt
